@@ -101,7 +101,7 @@ LinDy is released under the Custom Non-Commercial License v1.0, promoting open a
 ## Author Details and Copyright Information
 
 LinDy is developed by SUVANKAR BANERJEE.  
-For any inquiries or support, please contact [suvankarbanerjee73@gmail.com].
+For any inquiries or support, please contact [suvankarbanerjee1995@gmail.com].
 
 ## Copyright
 
